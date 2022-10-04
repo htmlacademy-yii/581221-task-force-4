@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Alexey Artemevskih](https://up.htmlacademy.ru/yii/4/user/581221).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Смиркин](https://htmlacademy.ru/profile/id1411277).
 
 ---
 
